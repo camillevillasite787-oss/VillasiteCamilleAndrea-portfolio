@@ -2,7 +2,7 @@
 I'm Camille Andrea Villasite from BSIT-2C this is my MIDTERM PROJECT
 
 # live site[portfolio link]
-(https://camillevillasite787-oss.github.io/VillasiteCamilleAndrea-portfolio/)
+(camillevillasite787-oss.github.io/VillasiteCamilleAndrea-portfolio/)
 
 ## Inside my portfolio
 
